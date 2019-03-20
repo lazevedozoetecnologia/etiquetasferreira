@@ -6,8 +6,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 */
 $( function() {
 // Add background image
-	$.backstretch('images/road2.jpg');
-	var endDate = "December  27, 2014 15:03:25";
+	$.backstretch('images/background_under.jpg');
+	var endDate = "March  31, 2019 23:30:00";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
 	  date: endDate,
